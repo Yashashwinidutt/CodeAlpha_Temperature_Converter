@@ -6,7 +6,7 @@ body{
   height: 100vh;
   background: url("bgimg.jpg");
   background-repeat: no-repeat;
-  background-size: 1600px 620px;
+  background-size: 1600px 600px;
   overflow-y: hidden;
 }
 
