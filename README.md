@@ -1,12 +1,12 @@
 # Temperature Converter: #
 Converts one temperature unit(C, F or K) into another accordingly.
 
-###Created using:###
+Created using:
 
 - HTML
 - CSS
 - Bootstrap
 - JavaScript
 
-###Live Version:### 
+Live Version:  
 https://temperature-converter-codealpha.netlify.app/
